@@ -1,3 +1,5 @@
 Learn Git Frist Day!
 
-I try to change the file now ! 
+I try to change the file now !
+
+Peter push something to file:“hi~i am peter!”。 
